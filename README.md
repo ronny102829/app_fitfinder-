@@ -38,5 +38,4 @@ copian la url mostrada en la terminal una vez se haya iniciado el servidor por l
 ## colaboradores
 |Nombres|Usuario|
 |--------|-------|
-|Jose Alvarez Escobar|@hackanonimous|
-|
+|Jose Alvarez Escobar|https://github.com/hackanonimous|
