@@ -13,11 +13,11 @@ el usuario toma una foto, y la aplicación le proporciona sugerencias de vestime
 - github
 
 ## documentacion
-
+ -[documentacion](https://docs.google.com/document/d/1EM5Fz7jjS2adUvRWuUvtFGHFHhl_zft_aNGv4Iy054w/edit?usp=sharing)
 ## prototipado
-
+-[visualisar el prototipo](https://www.figma.com/design/UqfRxvsEIKhPFAoZkZqM5J/Untitled?node-id=0-1&m=dev&t=ZmOqp3JGBIr0kvg1-1)
 ## organisacon 
-
+-[ver organisador](https://trello.com/invite/b/672d413d50bb0e2fff7db779/ATTI2cc8adf60910f25903f09e7364d55071AB2FAA3D/organisador-de-mi-app-fitfinder)
 ## Patrón de Arquitectura
 
 
