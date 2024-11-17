@@ -4,7 +4,7 @@ def navbar()->rx.Component:
   return rx.box(
     rx.desktop_only(
       rx.hstack(
-        rx.heading("UpSkill",color="#eff9ff"),
+        rx.heading("fitfinder",color="#eff9ff"),
         rx.hstack(
           rx.link(
             rx.icon("youtube",color="#eff9ff")
@@ -13,7 +13,7 @@ def navbar()->rx.Component:
             rx.icon("github",color="#eff9ff")
           ),
           rx.link(
-            mi_button_s("user","Iniciar Sesion"),
+            mi_button_s("arrow-down-to-line","descargar app"),
             href="/login"
           ),
           justify="end",
@@ -26,10 +26,10 @@ def navbar()->rx.Component:
     ),
     rx.mobile_and_tablet(
       rx.hstack(
-        rx.heading("UpSkill",color="#eff9ff"),
+        rx.heading("fitfinder",color="#eff9ff"),
         rx.hstack(
           rx.link(
-            mi_button_s("user","Iniciar Sesion"),
+            mi_button_s("arrow-down-to-line","descargar app"),
             href="/login"
           ),
           justify="end"
