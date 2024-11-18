@@ -24,21 +24,7 @@ def navbar()->rx.Component:
         align_items="center"
       ),
     ),
-    rx.mobile_and_tablet(
-      rx.hstack(
-        rx.heading("fitfinder",color="#eff9ff"),
-        rx.hstack(
-          rx.link(
-            mi_button_s("arrow-down-to-line","descargar app"),
-            href="/login"
-          ),
-          justify="end"
-        ),
-        justify="between",
-        align_items="center"
-      )
-    ),
-    bg="#1d4f8b",
+    bg="#f52c47",
     #rx.color("#E9F1FA", 3),
     padding="1em",
     # position="fixed",
