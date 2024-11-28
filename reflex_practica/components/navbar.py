@@ -7,7 +7,7 @@ def navbar()->rx.Component:
         rx.heading("fitfinder",color="#eff9ff"),
         rx.hstack(
           rx.link(
-            rx.icon("youtube",color="#eff9ff")
+            rx.icon("user",color="#eff9ff")
           ),
           rx.link(
             rx.icon("github",color="#eff9ff")
@@ -23,6 +23,20 @@ def navbar()->rx.Component:
         justify="between",
         align_items="center"
       ),
+    ),
+    rx.mobile_and_tablet(
+      rx.hstack(
+        rx.heading("fitfinder",color="#eff9ff"),
+        rx.hstack(
+          rx.link(
+            mi_button_s("arrow-down-to-line","descargar app"),
+            href="/login"
+          ),
+          justify="end"
+        ),
+        justify="between",
+        align_items="center"
+      )
     ),
     bg="#f52c47",
     #rx.color("#E9F1FA", 3),

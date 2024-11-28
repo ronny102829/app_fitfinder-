@@ -11,6 +11,7 @@ el usuario toma una foto, y la aplicación le proporciona sugerencias de vestime
 - python
 - trello
 - github
+## landing page
 
 ## documentacion
  -[documentacion](https://docs.google.com/document/d/1EM5Fz7jjS2adUvRWuUvtFGHFHhl_zft_aNGv4Iy054w/edit?usp=sharing)

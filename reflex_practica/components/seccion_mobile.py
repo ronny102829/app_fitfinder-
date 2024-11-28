@@ -17,7 +17,9 @@ def seccion_mobile()->rx.Component:
       align="center"
     ),
     rx.hstack(
-      rx.text(rx.text.em("fitfinder",color="#92dafe",weight="bold"),""" FitFinder propone una solución rápida y personalizada: el usuario toma una foto, y la aplicación le proporciona sugerencias de vestimenta basadas en su aspecto físico, colores, y estilo personal. La app puede usar algoritmos de recomendación y filtros de estilos (como casual, formal, deportivo, etc.),
+      rx.text(rx.text.em("fitfinder",color="#92dafe",weight="bold"),""" FitFinder propone una solución rápida y 
+              personalizada: el usuario toma una foto, y la aplicación le proporciona sugerencias de vestimenta
+               basadas en su aspecto físico, colores, y estilo personal. La app puede usar algoritmos de recomendación y filtros de estilos (como casual, formal, deportivo, etc.),
        ayudando a los usuarios a explorar opciones y seleccionar atuendos que se ajusten a sus necesidades y preferencias.""",size="5",color="#eff9ff",text_align="center"),
     ),
     rx.vstack(
